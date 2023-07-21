@@ -24,7 +24,4 @@ dist-ssr
 *.sw?
 
 README.md
-tailwind.config.js
-tsconfig.node.json
-tsconfig.json
 vite.config.ts
