@@ -23,7 +23,7 @@ function App() {
 
           <FaXmark className="cursor-pointer sm:hidden" size={"25"} onClick={toggleNav}/>
 
-          <ul className="text-center sm:flex sm:gap-4 me-auto">
+          <ul className="text-center sm:flex sm:gap-4 md:gap-8 me-auto">
             <li className="mt-3 text-lg hover:border-black hover:border-2 hover:rounded-md sm:m-0 sm:hover:border-none sm:text-md">
                 <a href="#">Home</a>
             </li>
